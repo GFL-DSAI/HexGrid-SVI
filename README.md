@@ -1,0 +1,1 @@
+Hexgrid is an interactive platform that visualizes environmental and economic data through a user-friendly interface. Users can explore various factors such as ozone levels, PM2.5 and PM10 concentrations, water prices, and heat. The visualizations provide insightful and engaging ways to understand complex datasets.
